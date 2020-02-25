@@ -1,0 +1,25 @@
+body{
+    background-color: #fafad2;
+}
+
+#email{
+    padding: 5px;
+    margin-top: 5px;
+    width: 300px;
+}
+
+#password{
+    padding: 5px;
+    margin-top: 5px;
+    width: 300px;
+}
+
+#login{
+    background-color: crimson;
+    color: burlywood;
+    padding: 5px;
+    width: 320px;
+}
+#loginForm{
+    margin-top: 100px;
+}
